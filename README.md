@@ -8,7 +8,8 @@
 
 <p align="left">🔭 Actively engaged in collaborative efforts, I'm driven to build innovative solutions and enhance the web development landscape.</p>
 
-<p align="left">📫 Let's connect! Feel free to reach out to me via email at [nguyenxuankha5371@gmail.com](mailto:nguyenxuankha5371@gmail.com) or visit my website at [kanenguyen.dev](https://www.kanenguyen.dev/) to explore more about my work.</p>
+<p align="left">📫 Let's connect! Feel free to reach out to me via email at <a href="mailto:nguyenxuankha5371@gmail.com">nguyenxuankha5371@gmail.com</a> or visit my website at <a href="https://www.kanenguyen.dev/">kanenguyen.dev</a> to explore more about my work.</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
