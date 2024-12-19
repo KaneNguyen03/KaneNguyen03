@@ -9,12 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=635&lines=Passionate+Fullstack+Developer;Crafting Robust and Scalable Systems;"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/kanenguyen03?color=F0C808&style=for-the-badge&labelColor=FFD700&logo=star"/>
-  <img src="https://custom-icon-badges.demolab.com/github/followers/kanenguyen03?color=2D76BB&labelColor=006BB6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/kanenguyen03">
     <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/kanenguyen03?color=FFC107&style=for-the-badge&labelColor=555555&logo=star&logoColor=white&cacheSeconds=300%22">
