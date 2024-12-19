@@ -16,6 +16,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/kanenguyen03">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/kanenguyen03?color=FFC107&style=for-the-badge&labelColor=555555&logo=star&logoColor=white&cacheSeconds=300%22">
+  </a>
+  <a href="https://github.com/kanenguyen03">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/kanenguyen03?color=0D47A1&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300%22">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-0915--421--830-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-nguyenxuankha5371@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
@@ -85,13 +94,19 @@
 
 <h3>Other</h3>
 <p align="center">
+  <img alt="Google Docs" src="https://img.shields.io/badge/google_docs-4285F4?&logo=googledocs&logoColor=white&style=for-the-badge">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white&style=for-the-badge">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge">
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF.svg?logo=trello&logoColor=white&style=for-the-badge">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black&style=for-the-badge">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white&style=for-the-badge">
 </p>
 
 <!-- GitHub Profile Stats Section -->
@@ -112,7 +127,14 @@
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kanenguyen03&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
       height="192px"/>
   </a>
-  
+  <p align="center">
+  <a href="https://github.com/kanenguyen03">
+    <img 
+      alt="Kanenguyen03's GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kanenguyen03&custom_title=Kane%20Nguyen%27s%20GitHub%20Activity%20Graph&bg_color=1F222E&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=F85D7F&area=true" 
+      height="250px"/>
+  </a>
+</p>
   <br/>
   
   <!-- Note about Top Languages -->
