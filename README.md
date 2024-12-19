@@ -104,6 +104,17 @@
 </p>
 
 <!-- GitHub Profile Stats Section -->
+<h2 align="center">🛠️ GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/kanenguyen03">
+    <img 
+      alt="kanenguyen03's Streak Stats" 
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kanenguyen03&theme=monokai-metallian&hide_border=true" 
+      height="192px"/>
+  </a>
+</p>
+
 <h3 align="center">💻 GitHub Profile Stats</h3>
 <p align="center">
   <!-- GitHub Stats Card -->
