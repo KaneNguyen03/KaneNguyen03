@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kanenguyen03">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Kane+Nguyen!+👋;Aspiring+Backend+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=Hi,+I%27m+Kane+Nguyen!+%F0%9F%91%8B;Aspiring+Backend+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,13 +21,13 @@
 
 ### 👨‍💻 About Me
 
-I am **Kha (Kane) Nguyen**, a passionate **Software Engineer** based in Ho Chi Minh City, Vietnam.  
-I graduated from **FPT University** with a major in Software Engineering (GPA 3.21/4). My expertise focuses on building robust backend services, cloud infrastructure, and scalable web applications.
+I’m **Kha (Kane) Nguyen**, a passionate **Software Engineer** based in Ho Chi Minh City, Vietnam.  
+I graduated from **FPT University**, majoring in Software Engineering (GPA 3.21/4). I specialize in building reliable backend services, cloud infrastructure, and scalable web applications.
 
-- 🔭 I’m currently working on **High-performance Backend Services** using **NestJS** & **GoLang**.
-- 🌱 I’m currently exploring **Advanced DevOps workflows** (AWS, Docker, K8s).
+- 🔭 Currently building **high-performance backend services** with **NestJS** & **Go**.
+- 🌱 Exploring **advanced DevOps workflows**: AWS, Docker, and Kubernetes.
 - 💼 Previously contributed to projects at **Cigro**, **FSoft**, and **Axpara**.
-- 💬 Ask me about **Node.js, System Architecture, or Cloud Computing**.
+- 💬 Ask me about **Node.js, system design, or cloud engineering**.
 
 <br/>
 
@@ -74,7 +74,7 @@ I graduated from **FPT University** with a major in Software Engineering (GPA 3.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kanenguyen03&theme=react&hide_border=true&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kanenguyen03&theme=react&hide_border=true&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866" alt="Streak Stats" />
 </div>
 <br/>
 <div align="center">
