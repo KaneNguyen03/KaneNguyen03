@@ -19,6 +19,12 @@
 
 <br/>
 
+### 🔎 Recruiter-Friendly Snapshot
+
+Backend-focused **Software Engineer** based in Ho Chi Minh City, Vietnam. I build reliable backend services and cloud-ready systems with a focus on clean architecture, performance, and maintainability.
+
+**Keywords:** Backend Engineer, Backend Developer, Node.js, NestJS, Go, REST APIs, Microservices, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, CI/CD, System Design
+
 ### 👨‍💻 About Me
 
 I’m **Kha (Kane) Nguyen**, a passionate **Software Engineer** based in Ho Chi Minh City, Vietnam.  
@@ -28,6 +34,18 @@ I graduated from **FPT University**, majoring in Software Engineering (GPA 3.21/
 - 🌱 Exploring **advanced DevOps workflows**: AWS, Docker, and Kubernetes.
 - 💼 Previously contributed to projects at **Cigro**, **FSoft**, and **Axpara**.
 - 💬 Ask me about **Node.js, system design, or cloud engineering**.
+
+### ✅ What I Bring
+
+- **Backend engineering:** API design, data modeling, and service integrations.
+- **Scalability & performance:** caching patterns, asynchronous processing, and pragmatic optimization.
+- **Cloud & DevOps mindset:** containerized deployments and production-ready workflows.
+- **Maintainable systems:** clean architecture, documentation, and consistent engineering practices.
+
+### 🎯 What I’m Looking For
+
+- Roles: **Backend Engineer / Backend Developer / Software Engineer (Backend)**
+- Interests: backend services, microservices, platform engineering, and cloud-native systems
 
 <br/>
 
