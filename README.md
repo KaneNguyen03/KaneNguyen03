@@ -78,8 +78,8 @@ I graduated from **FPT University**, majoring in Software Engineering (GPA 3.21/
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanenguyen03&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanenguyen03&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px" alt="Top Languages" />
 </div>
 
 <br/>
