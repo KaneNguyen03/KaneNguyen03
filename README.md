@@ -1,147 +1,94 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/kanenguyen03">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=%7C+Kanenguyen03+%7C" alt="Kanenguyen03"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Kane+Nguyen!+👋;Aspiring+Backend+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=8054B3&center=true&vCenter=true&width=600&lines=Code+with+passion,+deploy+with+confidence." alt="Slogan" />
+</div>
+
+<div align="center">
   <a href="https://github.com/kanenguyen03">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=635&lines=Passionate+Fullstack+Developer;Crafting Robust and Scalable Systems;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kanenguyen03">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/kanenguyen03?color=FFC107&style=for-the-badge&labelColor=555555&logo=star&logoColor=white&cacheSeconds=300%22">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/kanenguyen03?color=FFC107&style=for-the-badge&labelColor=1F222E&logo=star&logoColor=white"/>
   </a>
   <a href="https://github.com/kanenguyen03">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/kanenguyen03?color=0D47A1&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300%22">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/kanenguyen03?color=0D47A1&labelColor=1F222E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-0915--421--830-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-nguyenxuankha5371@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
-</p>
+<br/>
 
-<h2 align="center">🛠️ My skills and tools</h2>
+### 👨‍💻 About Me
 
-<h3>👨‍💻 Programming Languages</h3>
-<p align="center">
-  <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge">
-  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-FF4500.svg?logo=java&logoColor=white&style=for-the-badge">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge">
-</p>
+I am **Kha (Kane) Nguyen**, a passionate **Software Engineer** based in Ho Chi Minh City, Vietnam.  
+I graduated from **FPT University** with a major in Software Engineering (GPA 3.21/4). My expertise focuses on building robust backend services, cloud infrastructure, and scalable web applications.
 
-<h3>🧰 Backend Development</h3>
-<p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge">
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
-</p>
+- 🔭 I’m currently working on **High-performance Backend Services** using **NestJS** & **GoLang**.
+- 🌱 I’m currently exploring **Advanced DevOps workflows** (AWS, Docker, K8s).
+- 💼 Previously contributed to projects at **Cigro**, **FSoft**, and **Axpara**.
+- 💬 Ask me about **Node.js, System Architecture, or Cloud Computing**.
 
-<h3>🧰 Frontend Development</h3>
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-</p>
+<br/>
 
-<h3>🗄️ Mobile</h3>
-<p align="center">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white&style=for-the-badge">
-</p>
+### 🛠️ Tech Stack & Tools
 
-<h3>💻 Databases</h3>
-<p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white&style=for-the-badge">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge">
-</p>
+<div align="center">
 
-<h3>👨‍💻 Devops</h3>
-<p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=for-the-badge">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
-</p>
+**Languages** <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<h3>🧰 Frameworks</h3>
-<p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logoColor=white&style=for-the-badge">
-  <img alt="Nest" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+**Backend & Frameworks** <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 
-</p>
+**Database & Cloud** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-<h3>🗄️ Software</h3>
-<p align="center">
-  <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white&style=for-the-badge">
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
-</p>
+**Frontend & Others** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 
-<h3>💻 Game Engines</h3>
-<p align="center">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=Unity&logoColor=white&style=for-the-badge">
-</p>
+</div>
 
-<h3>Other</h3>
-<p align="center">
-  <img alt="Google Docs" src="https://img.shields.io/badge/google_docs-4285F4?&logo=googledocs&logoColor=white&style=for-the-badge">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white&style=for-the-badge">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge">
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF.svg?logo=trello&logoColor=white&style=for-the-badge">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge">
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black&style=for-the-badge">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white&style=for-the-badge">
-</p>
+<br/>
 
-<!-- GitHub Profile Stats Section -->
-<h2 align="center">🛠️ GitHub Stats</h2>
+### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/kanenguyen03">
-    <img 
-      alt="kanenguyen03's Streak Stats" 
-      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kanenguyen03&theme=monokai-metallian&hide_border=true" 
-      height="192px"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanenguyen03&theme=react&hide_border=true&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866" alt="Streak Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanenguyen03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px" alt="Top Languages" />
+</div>
+
+<br/>
+
+### 🤝 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nguyenxuankha5371">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:nguyenxuankha5371@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.kanenguyen.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website" />
+  </a>
+</div>
 
-<h3 align="center">💻 GitHub Profile Stats</h3>
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      alt="Kanenguyen03's GitHub Stats" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kanenguyen03&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-      height="192px"/>
-  </a>
-  
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      alt="Kanenguyen03's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kanenguyen03&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-      height="192px"/>
-  </a>
-  <p align="center">
-  <a href="https://github.com/kanenguyen03">
-    <img 
-      alt="Kanenguyen03's GitHub Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=kanenguyen03&custom_title=Kane%20Nguyen%27s%20GitHub%20Activity%20Graph&bg_color=1F222E&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=F85D7F&area=true" 
-      height="250px"/>
-  </a>
-</p>
-  <br/>
-  
-  <!-- Note about Top Languages -->
-  <b>Note:</b> 📫 Let's connect! Feel free to reach out to me via email at <a href="mailto:nguyenxuankha5371@gmail.com">nguyenxuankha5371@gmail.com</a> or visit my website at <a href="https://www.kanenguyen.dev/">kanenguyen.dev</a> to explore more about my work.</p>
-</p>
+<br/>
+<div align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</div>
