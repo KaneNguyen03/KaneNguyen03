@@ -1,122 +1,360 @@
 <div align="center">
-  <a href="https://github.com/kanenguyen03">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=Hi,+I%27m+Kane+Nguyen!+%F0%9F%91%8B;Aspiring+Backend+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
-  </a>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     ANIMATED HEADER
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5fd7ff&height=220&section=header&text=Kane%20Nguyen&fontSize=60&fontColor=5fd7ff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20and%20Blockchain%20Enthusiast&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     TYPING ANIMATION
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/kanenguyen03">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=5FD7FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%3E+Fullstack+Engineer+%40+Bizzi+(Fintech+SaaS);%3E+Building+AI+Agentic+Workflows+%26+MCP+Systems" alt="Typing SVG" />
+</a>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SOCIAL BADGES
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<p>
+  <a href="https://www.kanenguyen.com"><img src="https://img.shields.io/badge/kanenguyen.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5fd7ff" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nguyenxuankha5371"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:nguyenxuankha5371@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;
+  <a href="https://github.com/kanenguyen03"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     ABOUT ME
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/🏢_Bizzi-Fullstack_Developer-5FD7FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎓_FPT_University-Software_Engineering-5FD7FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam_🇻🇳-5FD7FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/⚡_Performance-45min_→_5min_Invoice_Export-161b22?style=flat-square&labelColor=0D1117" />
+<br />
+<img src="https://img.shields.io/badge/📊_Scale-1M+_Records_Optimized-161b22?style=flat-square&labelColor=0D1117" />
+<br />
+<img src="https://img.shields.io/badge/🌍_Global-Singapore_·_Korea_·_Vietnam-161b22?style=flat-square&labelColor=0D1117" />
+</div>
+
+<br />
+
+- 🔥 **2+ years** shipping production **React (Next.js)** and **Node.js (NestJS)** systems
+- 🏗️ Building **fintech SaaS** that processes millions of invoices daily
+- 📈 Optimized data pipelines for **1M+ records** — **90% faster**
+- 🤝 Cross-border collaboration with teams in **Singapore** and **Korea**
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/🧠_Focus-TypeScript--First_Development-161b22?style=flat-square&labelColor=0D1117" />
+<br />
+<img src="https://img.shields.io/badge/🤖_Passion-AI_Agentic_Workflows-161b22?style=flat-square&labelColor=0D1117" />
+<br />
+<img src="https://img.shields.io/badge/⛓️_Exploring-Blockchain_Systems-161b22?style=flat-square&labelColor=0D1117" />
+</div>
+
+<br />
+
+- 🎯 Deep commitment to **strict TypeScript standards** and **clean architecture**
+- 🧩 Building **MCP servers** and **AI agent pipelines** for real-world applications
+- 🏆 Active in **hackathon communities** and **open-source** contributions
+- ⚡ Leveraging **Cursor** and AI-assisted tools for **10x dev velocity**
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+  <i>「 Ship fast · Measure everything · Optimize relentlessly 」</i>
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,cs,java,go,nodejs,nestjs,express,dotnet,graphql&theme=dark" alt="Languages & Backend" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark" alt="Frontend" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,nginx,aws,grafana,prometheus,git&theme=dark" alt="Infra & Cloud" />
+
+</div>
+
+<br />
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🧠 Principles**
+
+`OOP` `SOLID` `DDD`
+`Clean Architecture`
+`Design Patterns`
+
+</td>
+<td align="center" width="33%">
+
+**🏗️ Architecture**
+
+`CQRS` `Saga Pattern`
+`Microservices`
+`Event-Driven`
+
+</td>
+<td align="center" width="33%">
+
+**📐 Practices**
+
+`Agile / Scrum`
+`CI/CD` `TDD`
+`SDLC`
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=8054B3&center=true&vCenter=true&width=600&lines=Code+with+passion,+deploy+with+confidence." alt="Slogan" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     AI & AGENTIC WORKFLOWS
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## 🤖 &nbsp;AI & Agentic Workflows
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0D1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🦜-LangChain_/_LangGraph-0D1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🧠-RAG_Pipelines-0D1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/⚡-Cursor_/_Copilot-0D1117?style=for-the-badge&labelColor=161b22" />
+</p>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 What I'm Exploring
+
+- 🔗 **Model Context Protocol (MCP)** — Tool-use architectures for LLMs to interact with external systems
+- 🦜 **LangGraph / LangChain** — Multi-step reasoning chains & agentic RAG systems
+- 🧩 **Agentic Pipelines** — Autonomous agents that plan, execute, and self-correct
+- ⚡ **AI-Assisted Dev** — Cursor, Copilot, and custom MCP servers for 10x velocity
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 Related Repos
+
+<a href="https://github.com/KaneNguyen03/agentic-rag-for-dummies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=agentic-rag-for-dummies&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+
+<a href="https://github.com/KaneNguyen03/awesome-claude-skills">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=awesome-claude-skills&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/KaneNguyen03/Porfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+<a href="https://github.com/KaneNguyen03/nest_codebase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=nest_codebase&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+<a href="https://github.com/KaneNguyen03/Chat-App-Client">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=Chat-App-Client&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+<a href="https://github.com/KaneNguyen03/doc-dalat-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=doc-dalat-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/kanenguyen03">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/kanenguyen03?color=FFC107&style=for-the-badge&labelColor=1F222E&logo=star&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kanenguyen03">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/kanenguyen03?color=0D47A1&labelColor=1F222E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════
+     PROFESSIONAL IMPACT
+     ═══════════════════════════════════════════════════════════════════ -->
 
-### 🔎 Recruiter-Friendly Snapshot
+## 💼 &nbsp;Professional Impact
 
-Backend-focused **Software Engineer** based in Ho Chi Minh City, Vietnam. I build reliable backend services and cloud-ready systems with a focus on clean architecture, performance, and maintainability.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-**Keywords:** Backend Engineer, Backend Developer, Node.js, NestJS, Go, REST APIs, Microservices, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, CI/CD, System Design
+### 🏢 Bizzi
+**Fintech SaaS**
 
-### 👨‍💻 About Me
+<img src="https://img.shields.io/badge/Invoice_Export-45m_→_5m-5FD7FF?style=flat-square&labelColor=0D1117" />
 
-I’m **Kha (Kane) Nguyen**, a passionate **Software Engineer** based in Ho Chi Minh City, Vietnam.  
-I graduated from **FPT University**, majoring in Software Engineering (GPA 3.21/4). I specialize in building reliable backend services, cloud infrastructure, and scalable web applications.
+Financial workflow features
+Data pipeline optimization
 
-- 🔭 Currently building **high-performance backend services** with **NestJS** & **Go**.
-- 🌱 Exploring **advanced DevOps workflows**: AWS, Docker, and Kubernetes.
-- 💼 Previously contributed to projects at **Cigro**, **FSoft**, and **Axpara**.
-- 💬 Ask me about **Node.js, system design, or cloud engineering**.
+</td>
+<td align="center" width="25%">
 
-### ✅ What I Bring
+### 🌏 Cigro
+**Singapore**
 
-- **Backend engineering:** API design, data modeling, and service integrations.
-- **Scalability & performance:** caching patterns, asynchronous processing, and pragmatic optimization.
-- **Cloud & DevOps mindset:** containerized deployments and production-ready workflows.
-- **Maintainable systems:** clean architecture, documentation, and consistent engineering practices.
+<img src="https://img.shields.io/badge/Integrations-Sendbird_·_Firebase-5FD7FF?style=flat-square&labelColor=0D1117" />
 
-### 🎯 What I’m Looking For
+BullMQ background processing
+Real-time notifications
 
-- Roles: **Backend Engineer / Backend Developer / Software Engineer (Backend)**
-- Interests: backend services, microservices, platform engineering, and cloud-native systems
+</td>
+<td align="center" width="25%">
 
-<br/>
+### 🎨 Axpara
+**Korea**
 
-### 🛠️ Tech Stack & Tools
+<img src="https://img.shields.io/badge/Productivity-+30%25-5FD7FF?style=flat-square&labelColor=0D1117" />
+
+Canvas annotation tool
+Engineer workflow boost
+
+</td>
+<td align="center" width="25%">
+
+### 💬 EveryTalk
+**Communication**
+
+<img src="https://img.shields.io/badge/Features-Chat_·_Video-5FD7FF?style=flat-square&labelColor=0D1117" />
+
+Real-time 1-1 chat
+Video call system
+
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/⚡_90%25_Faster-Data_Processing_for_1M+_Records-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
+  <img src="https://img.shields.io/badge/🌍_Cross--Border-Singapore_·_Korea_·_Vietnam-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
+  <img src="https://img.shields.io/badge/🏗️_2+_Years-Production_SaaS_Experience-0D1117?style=for-the-badge&labelColor=161b22" />
+</p>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     GITHUB ANALYTICS
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
 
-**Languages** <br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<a href="https://github.com/kanenguyen03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanenguyen03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=c9d1d9&ring_color=5FD7FF" alt="Kane's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&text_color=c9d1d9" alt="Top Languages" />
+</a>
 
-<br/>
+<br /><br />
 
-**Backend & Frameworks** <br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<a href="https://github.com/kanenguyen03">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanenguyen03&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=5FD7FF&ring=5FD7FF&fire=FF6B35&currStreakLabel=5FD7FF&sideLabels=5FD7FF&dates=8b949e" alt="GitHub Streak" />
+</a>
 
-<br/>
+<br /><br />
 
-**Database & Cloud** <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br/>
-
-**Frontend & Others** <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanenguyen03&bg_color=0D1117&color=5FD7FF&line=5FD7FF&point=FF6B35&area=true&area_color=5FD7FF&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
-
-<br/>
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kanenguyen03&theme=react&hide_border=true&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866" alt="Streak Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanenguyen03&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px" alt="Top Languages" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════
+     CONNECT
+     ═══════════════════════════════════════════════════════════════════ -->
 
-### 🤝 Connect with me
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nguyenxuankha5371">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nguyenxuankha5371@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.kanenguyen.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website" />
-  </a>
+<p>
+
+  <a href="https://www.kanenguyen.com"><img src="https://img.shields.io/badge/🌐_kanenguyen.com-0D1117?style=for-the-badge" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nguyenxuankha5371"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
+  <a href="mailto:nguyenxuankha5371@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
+</p>
+
+<br />
+
+```
+💡 Open to collaboration on AI/MCP projects, open-source contributions, and innovative fintech solutions.
+```
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=kanenguyen03&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
+
 </div>
 
-<br/>
-<div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5fd7ff&height=120&section=footer" width="100%" alt="footer" />
