@@ -10,12 +10,12 @@
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
-  page-top-margin: 0.7in,
-  page-bottom-margin: 0.7in,
-  page-left-margin: 0.7in,
-  page-right-margin: 0.7in,
-  page-show-footer: true,
-  page-show-top-note: true,
+  page-top-margin: 0.5in,
+  page-bottom-margin: 0.5in,
+  page-left-margin: 0.5in,
+  page-right-margin: 0.5in,
+  page-show-footer: false,
+  page-show-top-note: false,
   colors-body: rgb(0, 0, 0),
   colors-name: rgb(0, 79, 144),
   colors-headline: rgb(0, 79, 144),
@@ -24,8 +24,8 @@
   colors-links: rgb(0, 79, 144),
   colors-footer: rgb(128, 128, 128),
   colors-top-note: rgb(128, 128, 128),
-  typography-line-spacing: 0.6em,
-  typography-alignment: "justified",
+  typography-line-spacing: 0.4em,
+  typography-alignment: "left",
   typography-date-and-location-column-alignment: right,
   typography-font-family-body: "Source Sans 3",
   typography-font-family-name: "Source Sans 3",
@@ -49,9 +49,9 @@
   links-show-external-link-icon: false,
   header-alignment: center,
   header-photo-width: 3.5cm,
-  header-space-below-name: 0.7cm,
-  header-space-below-headline: 0.7cm,
-  header-space-below-connections: 0.7cm,
+  header-space-below-name: 0.3cm,
+  header-space-below-headline: 0.3cm,
+  header-space-below-connections: 0.3cm,
   header-connections-hyperlink: true,
   header-connections-show-icons: true,
   header-connections-display-urls-instead-of-usernames: false,
@@ -59,17 +59,17 @@
   header-connections-space-between-connections: 0.5cm,
   section-titles-type: "with_partial_line",
   section-titles-line-thickness: 0.5pt,
-  section-titles-space-above: 0.5cm,
-  section-titles-space-below: 0.3cm,
+  section-titles-space-above: 0.3cm,
+  section-titles-space-below: 0.15cm,
   sections-allow-page-break: true,
-  sections-space-between-text-based-entries: 0.3em,
-  sections-space-between-regular-entries: 1.2em,
-  entries-date-and-location-width: 4.15cm,
-  entries-side-space: 0.2cm,
-  entries-space-between-columns: 0.1cm,
+  sections-space-between-text-based-entries: 0.2em,
+  sections-space-between-regular-entries: 0.6em,
+  entries-date-and-location-width: 4.5cm,
+  entries-side-space: 0.1cm,
+  entries-space-between-columns: 0.05cm,
   entries-allow-page-break: false,
   entries-short-second-row: true,
-  entries-degree-width: 1cm,
+  entries-degree-width: 3cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0cm,
   entries-highlights-bullet:  "•" ,
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 5,
-    day: 27,
+    day: 28,
   ),
 )
 
@@ -108,6 +108,8 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
   [
     #strong[Bizzi], Fullstack Engineer
 
+    - Architected and integrated AI Agentic workflows and custom MCP servers into the AP automation engine, enhancing autonomous invoice capture and approval accuracy
+
     - Build AP automation features (invoice capture, approvals, payments) with Node.js\/TypeScript services and React dashboards
 
     - Implemented role-based access control, audit logging, and secure document storage for enterprise compliance
@@ -124,16 +126,12 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
 
     Jan 2023 – present
 
-    
-
-    3 years 5 months
-
   ],
 )
 
 #regular-entry(
   [
-    #strong[Cigro], Software Engineer
+    #strong[Cigro], Software Engineer (Contract)
 
     - Integrated Sendbird chat and Firebase push notifications for real-time communication features
 
@@ -147,16 +145,12 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
 
     June 2023 – June 2024
 
-    
-
-    1 year 1 month
-
   ],
 )
 
 #regular-entry(
   [
-    #strong[Axpara], Software Engineer
+    #strong[Axpara], Software Engineer (Contract)
 
     - Developed canvas annotation tool for collaborative document review
 
@@ -167,10 +161,6 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
     Korea (Remote)
 
     Jan 2023 – Jan 2024
-
-    
-
-    1 year 1 month
 
   ],
 )
@@ -189,10 +179,6 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
 
     June 2022 – June 2023
 
-    
-
-    1 year 1 month
-
   ],
 )
 
@@ -208,24 +194,46 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
 
   ],
   degree-column: [
-    #strong[Bachelor]
+    #strong[B.S.]
+  ],
+)
+
+== Projects
+
+#regular-entry(
+  [
+    #strong[Agentic RAG for Dummies]
+
+    - Built an open-source multi-agent reasoning system using LangGraph and TypeScript for complex document processing
+
+  ],
+  [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Awesome Claude Skills]
+
+    - Developed customized tools and Model Context Protocol (MCP) servers to optimize LLM workspace integration
+
+  ],
+  [
   ],
 )
 
 == Skills
 
-#strong[Languages:] TypeScript, JavaScript, C\#, Java, Go
+#strong[Languages:] TypeScript, JavaScript, C\#, Go
 
 #strong[Backend:] Node.js, NestJS, Express, .NET, GraphQL, REST APIs
 
-#strong[Frontend:] React, Next.js, Tailwind CSS, Redux, HTML, CSS
+#strong[Frontend:] React, Next.js, Tailwind CSS, Redux
 
 #strong[Database:] PostgreSQL, MongoDB, MySQL, Redis
 
 #strong[DevOps & Cloud:] Docker, Nginx, AWS, Grafana, Prometheus, Git
 
-#strong[Architecture:] Microservices, CQRS, Saga Pattern, Event-Driven, Clean Architecture
+#strong[Architecture & Practices:] Microservices, CQRS, Saga, Event-Driven, Clean Architecture, Agile, CI\/CD, TDD, OOP, SOLID, DDD
 
 #strong[AI & Emerging:] MCP, LangChain, LangGraph, RAG, AI Agent Workflows
-
-#strong[Practices:] Agile \/ Scrum, CI\/CD, TDD, SDLC, OOP, SOLID, DDD

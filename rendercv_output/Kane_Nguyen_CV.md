@@ -18,9 +18,7 @@ Ho Chi Minh City, Vietnam
 
 Jan 2023 – present
 
-
-
-3 years 5 months
+- Architected and integrated AI Agentic workflows and custom MCP servers into the AP automation engine, enhancing autonomous invoice capture and approval accuracy
 
 - Build AP automation features (invoice capture, approvals, payments) with Node.js/TypeScript services and React dashboards
 
@@ -34,15 +32,11 @@ Jan 2023 – present
 
 
 
-## **Cigro**, Software Engineer
+## **Cigro**, Software Engineer (Contract)
 
 Singapore (Remote)
 
 June 2023 – June 2024
-
-
-
-1 year 1 month
 
 - Integrated Sendbird chat and Firebase push notifications for real-time communication features
 
@@ -52,15 +46,11 @@ June 2023 – June 2024
 
 
 
-## **Axpara**, Software Engineer
+## **Axpara**, Software Engineer (Contract)
 
 Korea (Remote)
 
 Jan 2023 – Jan 2024
-
-
-
-1 year 1 month
 
 - Developed canvas annotation tool for collaborative document review
 
@@ -74,10 +64,6 @@ Vietnam
 
 June 2022 – June 2023
 
-
-
-1 year 1 month
-
 - Built real-time 1-1 chat system with WebSocket integration
 
 - Implemented video call system for peer-to-peer communication
@@ -87,26 +73,37 @@ June 2022 – June 2023
 # Education
 ## **FPT University**, Software Engineering
 
-**Bachelor**
+**B.S.**
 
 
 2020 – 2024
 
 
 
+# Projects
+## **Agentic RAG for Dummies**
+
+- Built an open-source multi-agent reasoning system using LangGraph and TypeScript for complex document processing
+
+
+
+## **Awesome Claude Skills**
+
+- Developed customized tools and Model Context Protocol (MCP) servers to optimize LLM workspace integration
+
+
+
 # Skills
-**Languages:** TypeScript, JavaScript, C#, Java, Go
+**Languages:** TypeScript, JavaScript, C#, Go
 
 **Backend:** Node.js, NestJS, Express, .NET, GraphQL, REST APIs
 
-**Frontend:** React, Next.js, Tailwind CSS, Redux, HTML, CSS
+**Frontend:** React, Next.js, Tailwind CSS, Redux
 
 **Database:** PostgreSQL, MongoDB, MySQL, Redis
 
 **DevOps & Cloud:** Docker, Nginx, AWS, Grafana, Prometheus, Git
 
-**Architecture:** Microservices, CQRS, Saga Pattern, Event-Driven, Clean Architecture
+**Architecture & Practices:** Microservices, CQRS, Saga, Event-Driven, Clean Architecture, Agile, CI/CD, TDD, OOP, SOLID, DDD
 
 **AI & Emerging:** MCP, LangChain, LangGraph, RAG, AI Agent Workflows
-
-**Practices:** Agile / Scrum, CI/CD, TDD, SDLC, OOP, SOLID, DDD

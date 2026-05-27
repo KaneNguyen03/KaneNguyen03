@@ -21,6 +21,7 @@ cv:
         start_date: 2023-01
         end_date: present
         highlights:
+          - "Architected and integrated AI Agentic workflows and custom MCP servers into the AP automation engine, enhancing autonomous invoice capture and approval accuracy"
           - "Build AP automation features (invoice capture, approvals, payments) with Node.js/TypeScript services and React dashboards"
           - "Implemented role-based access control, audit logging, and secure document storage for enterprise compliance"
           - "Optimized invoice export performance from 45 minutes to 5 minutes through data pipeline optimization"
@@ -28,7 +29,7 @@ cv:
           - "Collaborated cross-border with teams in Singapore and Korea on fintech product development"
 
       - company: Cigro
-        position: Software Engineer
+        position: Software Engineer (Contract)
         location: Singapore (Remote)
         start_date: 2023-06
         end_date: 2024-06
@@ -38,7 +39,7 @@ cv:
           - "Built real-time notification system for user engagement"
 
       - company: Axpara
-        position: Software Engineer
+        position: Software Engineer (Contract)
         location: Korea (Remote)
         start_date: 2023-01
         end_date: 2024-01
@@ -58,36 +59,44 @@ cv:
     education:
       - institution: FPT University
         area: Software Engineering
-        degree: Bachelor
+        degree: B.S.
         start_date: 2020
         end_date: 2024
 
+    projects:
+      - name: "Agentic RAG for Dummies"
+        highlights:
+          - "Built an open-source multi-agent reasoning system using LangGraph and TypeScript for complex document processing"
+      - name: "Awesome Claude Skills"
+        highlights:
+          - "Developed customized tools and Model Context Protocol (MCP) servers to optimize LLM workspace integration"
+
     skills:
       - label: Languages
-        details: TypeScript, JavaScript, C#, Java, Go
+        details: TypeScript, JavaScript, C#, Go
       - label: Backend
         details: Node.js, NestJS, Express, .NET, GraphQL, REST APIs
       - label: Frontend
-        details: React, Next.js, Tailwind CSS, Redux, HTML, CSS
+        details: React, Next.js, Tailwind CSS, Redux
       - label: Database
         details: PostgreSQL, MongoDB, MySQL, Redis
       - label: DevOps & Cloud
         details: Docker, Nginx, AWS, Grafana, Prometheus, Git
-      - label: Architecture
-        details: Microservices, CQRS, Saga Pattern, Event-Driven, Clean Architecture
+      - label: Architecture & Practices
+        details: Microservices, CQRS, Saga, Event-Driven, Clean Architecture, Agile, CI/CD, TDD, OOP, SOLID, DDD
       - label: AI & Emerging
         details: MCP, LangChain, LangGraph, RAG, AI Agent Workflows
-      - label: Practices
-        details: Agile / Scrum, CI/CD, TDD, SDLC, OOP, SOLID, DDD
 
 design:
   theme: classic
   page:
     size: us-letter
-    top_margin: 0.7in
-    bottom_margin: 0.7in
-    left_margin: 0.7in
-    right_margin: 0.7in
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: false
+    show_top_note: false
   colors:
     name: rgb(0, 79, 144)
     headline: rgb(0, 79, 144)
@@ -103,7 +112,24 @@ design:
       section_titles: Source Sans 3
     font_size:
       body: 10pt
+    line_spacing: 0.4em
+    alignment: left
   header:
     alignment: center
+    space_below_name: 0.3cm
+    space_below_headline: 0.3cm
+    space_below_connections: 0.3cm
     connections:
       show_icons: true
+  section_titles:
+    space_above: 0.3cm
+    space_below: 0.15cm
+  sections:
+    space_between_regular_entries: 0.6em
+    space_between_text_based_entries: 0.2em
+    show_time_spans_in: []
+  entries:
+    degree_width: 3cm
+    date_and_location_width: 4.5cm
+    space_between_columns: 0.05cm
+    side_space: 0.1cm
