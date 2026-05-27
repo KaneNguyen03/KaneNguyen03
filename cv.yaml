@@ -58,7 +58,7 @@ cv:
 
     education:
       - institution: FPT University
-        area: Software Engineering
+        area: "Software Engineering (GPA: 3.2/4.0)"
         degree: B.S.
         start_date: 2020
         end_date: 2024

@@ -186,7 +186,7 @@ Fullstack Developer with 2+ years of experience shipping production React (Next.
 
 #education-entry(
   [
-    #strong[FPT University], Software Engineering
+    #strong[FPT University], Software Engineering (GPA: 3.2\/4.0)
 
   ],
   [

@@ -71,7 +71,7 @@ June 2022 – June 2023
 
 
 # Education
-## **FPT University**, Software Engineering
+## **FPT University**, Software Engineering (GPA: 3.2/4.0)
 
 **B.S.**
 
