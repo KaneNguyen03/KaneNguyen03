@@ -1,0 +1,109 @@
+cv:
+  name: Kane Nguyen
+  location: Ho Chi Minh City, Vietnam
+  email: nguyenxuankha5371@gmail.com
+  phone: "+84915421830"
+  website: https://kanenguyen.com
+  social_networks:
+    - network: LinkedIn
+      username: nguyenxuankha5371
+    - network: GitHub
+      username: KaneNguyen03
+
+  sections:
+    summary:
+      - "Fullstack Developer with 2+ years of experience shipping production React (Next.js) and Node.js (NestJS) systems in fintech SaaS. Proven track record of optimizing data pipelines for 1M+ records (90% faster), building AP automation features, and collaborating cross-border with teams in Singapore and Korea. Passionate about AI agentic workflows and MCP systems."
+
+    experience:
+      - company: Bizzi
+        position: Fullstack Engineer
+        location: Ho Chi Minh City, Vietnam
+        start_date: 2023-01
+        end_date: present
+        highlights:
+          - "Build AP automation features (invoice capture, approvals, payments) with Node.js/TypeScript services and React dashboards"
+          - "Implemented role-based access control, audit logging, and secure document storage for enterprise compliance"
+          - "Optimized invoice export performance from 45 minutes to 5 minutes through data pipeline optimization"
+          - "Processed and optimized data pipelines handling 1M+ records, achieving 90% faster processing"
+          - "Collaborated cross-border with teams in Singapore and Korea on fintech product development"
+
+      - company: Cigro
+        position: Software Engineer
+        location: Singapore (Remote)
+        start_date: 2023-06
+        end_date: 2024-06
+        highlights:
+          - "Integrated Sendbird chat and Firebase push notifications for real-time communication features"
+          - "Implemented BullMQ background job processing for asynchronous task handling"
+          - "Built real-time notification system for user engagement"
+
+      - company: Axpara
+        position: Software Engineer
+        location: Korea (Remote)
+        start_date: 2023-01
+        end_date: 2024-01
+        highlights:
+          - "Developed canvas annotation tool for collaborative document review"
+          - "Improved engineer workflow productivity by 30% through tool optimization"
+
+      - company: EveryTalk
+        position: Fullstack Developer
+        location: Vietnam
+        start_date: 2022-06
+        end_date: 2023-06
+        highlights:
+          - "Built real-time 1-1 chat system with WebSocket integration"
+          - "Implemented video call system for peer-to-peer communication"
+
+    education:
+      - institution: FPT University
+        area: Software Engineering
+        degree: Bachelor
+        start_date: 2020
+        end_date: 2024
+
+    skills:
+      - label: Languages
+        details: TypeScript, JavaScript, C#, Java, Go
+      - label: Backend
+        details: Node.js, NestJS, Express, .NET, GraphQL, REST APIs
+      - label: Frontend
+        details: React, Next.js, Tailwind CSS, Redux, HTML, CSS
+      - label: Database
+        details: PostgreSQL, MongoDB, MySQL, Redis
+      - label: DevOps & Cloud
+        details: Docker, Nginx, AWS, Grafana, Prometheus, Git
+      - label: Architecture
+        details: Microservices, CQRS, Saga Pattern, Event-Driven, Clean Architecture
+      - label: AI & Emerging
+        details: MCP, LangChain, LangGraph, RAG, AI Agent Workflows
+      - label: Practices
+        details: Agile / Scrum, CI/CD, TDD, SDLC, OOP, SOLID, DDD
+
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+  colors:
+    name: rgb(0, 79, 144)
+    headline: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+  typography:
+    font_family:
+      body: Source Sans 3
+      name: Source Sans 3
+      headline: Source Sans 3
+      connections: Source Sans 3
+      section_titles: Source Sans 3
+    font_size:
+      body: 10pt
+  header:
+    alignment: center
+    connections:
+      show_icons: true
