@@ -184,11 +184,11 @@
 ### 📂 Related Repos
 
 <a href="https://github.com/KaneNguyen03/agentic-rag-for-dummies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=agentic-rag-for-dummies&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=agentic-rag-for-dummies&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 
 <a href="https://github.com/KaneNguyen03/awesome-claude-skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=awesome-claude-skills&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=awesome-claude-skills&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 
 </td>
@@ -208,16 +208,16 @@
 <div align="center">
 
 <a href="https://github.com/KaneNguyen03/Porfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 <a href="https://github.com/KaneNguyen03/nest_codebase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=nest_codebase&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=nest_codebase&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 <a href="https://github.com/KaneNguyen03/Chat-App-Client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=Chat-App-Client&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Chat-App-Client&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 <a href="https://github.com/KaneNguyen03/doc-dalat-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaneNguyen03&repo=doc-dalat-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=doc-dalat-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 
 </div>
@@ -306,8 +306,8 @@ Video call system
 <div align="center">
 
 <a href="https://github.com/kanenguyen03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanenguyen03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=c9d1d9&ring_color=5FD7FF" alt="Kane's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanenguyen03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=c9d1d9&ring_color=5FD7FF" alt="Kane's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&text_color=c9d1d9" alt="Top Languages" />
 </a>
 
 <br /><br />
