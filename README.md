@@ -4,7 +4,7 @@
      ANIMATED HEADER
      ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5fd7ff&height=220&section=header&text=Kane%20Nguyen&fontSize=60&fontColor=5fd7ff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20and%20Blockchain%20Enthusiast&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5fd7ff&height=220&section=header&text=Kane%20Nguyen&fontSize=60&fontColor=5fd7ff&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Fintech%20SaaS%20%26%20AI%20Agentic%20Workflows&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
 
 <!-- ═══════════════════════════════════════════════════════════════════
      TYPING ANIMATION
@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://www.kanenguyen.com"><img src="https://img.shields.io/badge/kanenguyen.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5fd7ff" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/nguyenxuankha5371"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kha-nguyen-29732a209"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:nguyenxuankha5371@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;
   <a href="https://github.com/kanenguyen03"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </p>
@@ -37,8 +37,8 @@
 
 <div align="center">
 <p>
-  <img src="https://img.shields.io/badge/🏢_Bizzi-Fullstack_Developer-5FD7FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎓_FPT_University-Software_Engineering-5FD7FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🏢_Bizzi-Fullstack_Engineer-5FD7FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎓_FSB-MSc_Engineering_(Expected_2027)-5FD7FF?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam_🇻🇳-5FD7FF?style=for-the-badge&labelColor=0D1117" />
 </p>
 </div>
@@ -50,16 +50,16 @@
 <div align="center">
 <img src="https://img.shields.io/badge/⚡_Performance-45min_→_5min_Invoice_Export-161b22?style=flat-square&labelColor=0D1117" />
 <br />
-<img src="https://img.shields.io/badge/📊_Scale-1M+_Records_Optimized-161b22?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📊_Scale-4M+_Invoices_%2Fmo_Processed-161b22?style=flat-square&labelColor=0D1117" />
 <br />
 <img src="https://img.shields.io/badge/🌍_Global-Singapore_·_Korea_·_Vietnam-161b22?style=flat-square&labelColor=0D1117" />
 </div>
 
 <br />
 
-- 🔥 **2+ years** shipping production **React (Next.js)** and **Node.js (NestJS)** systems
-- 🏗️ Building **fintech SaaS** that processes millions of invoices daily
-- 📈 Optimized data pipelines for **1M+ records** — **90% faster**
+- 🔥 **3 years** shipping production **React/Angular (Next.js)** and **Node.js (NestJS/Fastify)** systems
+- 🏗️ Maintaining and scaling an **IPA fintech platform** processing **4M+ e-invoices/month** for enterprises like Masan Consumer, Wincommerce, and GS25
+- 📈 Refactored report exports for **1M+ record** datasets — **45min → 5min (~9× throughput)**
 - 🤝 Cross-border collaboration with teams in **Singapore** and **Korea**
 
 </td>
@@ -70,7 +70,7 @@
 <br />
 <img src="https://img.shields.io/badge/🤖_Passion-AI_Agentic_Workflows-161b22?style=flat-square&labelColor=0D1117" />
 <br />
-<img src="https://img.shields.io/badge/⛓️_Exploring-Blockchain_Systems-161b22?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎓_Honors-FPT_University_Graduate-161b22?style=flat-square&labelColor=0D1117" />
 </div>
 
 <br />
@@ -206,18 +206,24 @@
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
+<p>
+  <img src="https://img.shields.io/badge/🏢_B--eInvoice-IPA_Platform_·_4M+_invoices%2Fmo-0D1117?style=for-the-badge&labelColor=161b22" />
+</p>
+<sub>Enterprise AP automation for Masan Consumer, Wincommerce, GS25 & KingFoodMart — private client codebase</sub>
+</div>
 
+<br />
+
+<div align="center">
+
+<a href="https://github.com/KaneNguyen03/poke-life-fe">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=poke-life-fe&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
+<a href="https://github.com/KaneNguyen03/BMCMS-FE">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=BMCMS-FE&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
+</a>
 <a href="https://github.com/KaneNguyen03/Porfolio">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/KaneNguyen03/nest_codebase">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=nest_codebase&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/KaneNguyen03/Chat-App-Client">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Chat-App-Client&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/KaneNguyen03/doc-dalat-frontend">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=doc-dalat-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
 </a>
 
 </div>
@@ -240,10 +246,10 @@
 ### 🏢 Bizzi
 **Fintech SaaS**
 
-<img src="https://img.shields.io/badge/Invoice_Export-45m_→_5m-5FD7FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Invoice_Export-45m_→_5m_(9×)-5FD7FF?style=flat-square&labelColor=0D1117" />
 
-Financial workflow features
-Data pipeline optimization
+3-Way Matching UI
+4M+ invoices/mo pipeline
 
 </td>
 <td align="center" width="25%">
@@ -253,8 +259,19 @@ Data pipeline optimization
 
 <img src="https://img.shields.io/badge/Integrations-Sendbird_·_Firebase-5FD7FF?style=flat-square&labelColor=0D1117" />
 
-BullMQ background processing
-Real-time notifications
+Real-time chat/video (EveryTalk)
+IAP payment flows
+
+</td>
+<td align="center" width="25%">
+
+### 💻 FSoft
+**Enterprise Frontend**
+
+<img src="https://img.shields.io/badge/Role-Frontend_Intern-5FD7FF?style=flat-square&labelColor=0D1117" />
+
+React + React Query modules
+Data-fetching architecture
 
 </td>
 <td align="center" width="25%">
@@ -265,18 +282,7 @@ Real-time notifications
 <img src="https://img.shields.io/badge/Productivity-+30%25-5FD7FF?style=flat-square&labelColor=0D1117" />
 
 Canvas annotation tool
-Engineer workflow boost
-
-</td>
-<td align="center" width="25%">
-
-### 💬 EveryTalk
-**Communication**
-
-<img src="https://img.shields.io/badge/Features-Chat_·_Video-5FD7FF?style=flat-square&labelColor=0D1117" />
-
-Real-time 1-1 chat
-Video call system
+Sub-50ms interaction latency
 
 </td>
 </tr>
@@ -287,9 +293,9 @@ Video call system
 
 <div align="center">
 <p>
-  <img src="https://img.shields.io/badge/⚡_90%25_Faster-Data_Processing_for_1M+_Records-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
+  <img src="https://img.shields.io/badge/⚡_9×_Throughput-1M+_Record_Exports_Optimized-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
   <img src="https://img.shields.io/badge/🌍_Cross--Border-Singapore_·_Korea_·_Vietnam-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
-  <img src="https://img.shields.io/badge/🏗️_2+_Years-Production_SaaS_Experience-0D1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🏗️_3_Years-Production_SaaS_Experience-0D1117?style=for-the-badge&labelColor=161b22" />
 </p>
 </div>
 
@@ -336,7 +342,7 @@ Video call system
 <p>
 
   <a href="https://www.kanenguyen.com"><img src="https://img.shields.io/badge/🌐_kanenguyen.com-0D1117?style=for-the-badge" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/nguyenxuankha5371"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kha-nguyen-29732a209"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
   <a href="mailto:nguyenxuankha5371@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 </p>
