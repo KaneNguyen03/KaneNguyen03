@@ -1,366 +1,58 @@
-<div align="center">
+# Hi, I'm Kane Nguyen 👋
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ANIMATED HEADER
-     ═══════════════════════════════════════════════════════════════════ -->
+**Fullstack Engineer @ Bizzi** · Fintech SaaS · Building AI agentic workflows & MCP systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5fd7ff&height=220&section=header&text=Kane%20Nguyen&fontSize=60&fontColor=5fd7ff&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Fintech%20SaaS%20%26%20AI%20Agentic%20Workflows&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
+[kanenguyen.com](https://www.kanenguyen.com) · [LinkedIn](https://www.linkedin.com/in/kha-nguyen-29732a209) · [Email](mailto:nguyenxuankha5371@gmail.com) · [GitHub](https://github.com/kanenguyen03)
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     TYPING ANIMATION
-     ═══════════════════════════════════════════════════════════════════ -->
+---
 
-<a href="https://github.com/kanenguyen03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=5FD7FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%3E+Fullstack+Engineer+%40+Bizzi+(Fintech+SaaS);%3E+Building+AI+Agentic+Workflows+%26+MCP+Systems" alt="Typing SVG" />
-</a>
+## About
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     SOCIAL BADGES
-     ═══════════════════════════════════════════════════════════════════ -->
+Fullstack Engineer with **3 years** shipping production React/Next.js and Node.js/NestJS systems. Currently maintaining and scaling an **IPA fintech platform** that processes **4M+ e-invoices/month** for enterprises like Masan Consumer, Wincommerce, and GS25. Cross-border experience with teams in Singapore and Korea. Honors graduate of FPT University, currently pursuing a Master's in Engineering at FSB (expected 2027).
 
-<p>
-  <a href="https://www.kanenguyen.com"><img src="https://img.shields.io/badge/kanenguyen.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=5fd7ff" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kha-nguyen-29732a209"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:nguyenxuankha5371@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;
-  <a href="https://github.com/kanenguyen03"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-</p>
+Passionate about **AI agentic workflows**, **MCP servers**, and using AI-assisted tooling (Cursor, Copilot) to ship faster.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+## Experience
 
-</div>
+| | | |
+|---|---|---|
+| **🏢 Bizzi** — Software Engineer (Fullstack) | Fintech SaaS · Vietnam | 45min → 5min invoice export (9× throughput) · 3-Way Matching UI · 4M+ invoices/mo pipeline |
+| **🌏 Cigro** — Software Engineer (Fullstack) | Singapore | Real-time chat/video (EveryTalk) with Sendbird & Firebase · IAP payment flows |
+| **💻 FSoft** — Frontend Engineering Intern | Vietnam | React + React Query enterprise modules · Data-fetching architecture |
+| **🎨 Axpara** — Software Engineer (Frontend) | Korea | Canvas annotation tool · Sub-50ms interaction latency · +30% engineer productivity |
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ABOUT ME
-     ═══════════════════════════════════════════════════════════════════ -->
+## Tech Stack
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/🏢_Bizzi-Fullstack_Engineer-5FD7FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎓_FSB-MSc_Engineering_(Expected_2027)-5FD7FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam_🇻🇳-5FD7FF?style=for-the-badge&labelColor=0D1117" />
-</p>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/⚡_Performance-45min_→_5min_Invoice_Export-161b22?style=flat-square&labelColor=0D1117" />
-<br />
-<img src="https://img.shields.io/badge/📊_Scale-4M+_Invoices_%2Fmo_Processed-161b22?style=flat-square&labelColor=0D1117" />
-<br />
-<img src="https://img.shields.io/badge/🌍_Global-Singapore_·_Korea_·_Vietnam-161b22?style=flat-square&labelColor=0D1117" />
-</div>
-
-<br />
-
-- 🔥 **3 years** shipping production **React/Angular (Next.js)** and **Node.js (NestJS/Fastify)** systems
-- 🏗️ Maintaining and scaling an **IPA fintech platform** processing **4M+ e-invoices/month** for enterprises like Masan Consumer, Wincommerce, and GS25
-- 📈 Refactored report exports for **1M+ record** datasets — **45min → 5min (~9× throughput)**
-- 🤝 Cross-border collaboration with teams in **Singapore** and **Korea**
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://img.shields.io/badge/🧠_Focus-TypeScript--First_Development-161b22?style=flat-square&labelColor=0D1117" />
-<br />
-<img src="https://img.shields.io/badge/🤖_Passion-AI_Agentic_Workflows-161b22?style=flat-square&labelColor=0D1117" />
-<br />
-<img src="https://img.shields.io/badge/🎓_Honors-FPT_University_Graduate-161b22?style=flat-square&labelColor=0D1117" />
-</div>
-
-<br />
-
-- 🎯 Deep commitment to **strict TypeScript standards** and **clean architecture**
-- 🧩 Building **MCP servers** and **AI agent pipelines** for real-world applications
-- 🏆 Active in **hackathon communities** and **open-source** contributions
-- ⚡ Leveraging **Cursor** and AI-assisted tools for **10x dev velocity**
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-  <i>「 Ship fast · Measure everything · Optimize relentlessly 」</i>
-</div>
-
-<br />
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     TECH STACK
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,cs,java,go,nodejs,nestjs,express,dotnet,graphql&theme=dark" alt="Languages & Backend" />
-<br /><br />
+<img src="https://skillicons.dev/icons?i=ts,js,cs,go,nodejs,nestjs,express,graphql&theme=dark" alt="Languages & Backend" />
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark" alt="Frontend" />
-<br /><br />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,nginx,aws,grafana,prometheus,git&theme=dark" alt="Infra & Cloud" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,git&theme=dark" alt="Infra & Cloud" />
 
-</div>
+`OOP` `SOLID` `DDD` `Clean Architecture` `CQRS` `Microservices` `Event-Driven` `Agile/Scrum` `CI/CD` `TDD`
 
-<br />
+## AI & Agentic Workflows
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
+Exploring **Model Context Protocol (MCP)**, **LangChain/LangGraph**, and agentic RAG pipelines — building tool-use architectures for LLMs and autonomous agents that plan, execute, and self-correct.
 
-**🧠 Principles**
+- [agentic-rag-for-dummies](https://github.com/KaneNguyen03/agentic-rag-for-dummies) — a minimal Agentic RAG built with LangGraph
+- [awesome-claude-skills](https://github.com/KaneNguyen03/awesome-claude-skills) — a curated list of Claude Skills and tools
 
-`OOP` `SOLID` `DDD`
-`Clean Architecture`
-`Design Patterns`
+## Featured Projects
 
-</td>
-<td align="center" width="33%">
+**B-eInvoice** — Enterprise AP automation IPA platform processing 4M+ invoices/month for Masan Consumer, Wincommerce, GS25 & KingFoodMart *(private client codebase)*
 
-**🏗️ Architecture**
+<a href="https://github.com/KaneNguyen03/poke-life-fe"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=poke-life-fe&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" /></a>
+<a href="https://github.com/KaneNguyen03/BMCMS-FE"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=BMCMS-FE&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" /></a>
+<a href="https://github.com/KaneNguyen03/Porfolio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" /></a>
 
-`CQRS` `Saga Pattern`
-`Microservices`
-`Event-Driven`
+## GitHub Stats
 
-</td>
-<td align="center" width="33%">
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanenguyen03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=c9d1d9&ring_color=5FD7FF" alt="Kane's GitHub Stats" align="left" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&text_color=c9d1d9" alt="Top Languages" />
 
-**📐 Practices**
+<br clear="both"/>
 
-`Agile / Scrum`
-`CI/CD` `TDD`
-`SDLC`
+---
 
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     AI & AGENTIC WORKFLOWS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 🤖 &nbsp;AI & Agentic Workflows
-
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0D1117?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/🦜-LangChain_/_LangGraph-0D1117?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/🧠-RAG_Pipelines-0D1117?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/⚡-Cursor_/_Copilot-0D1117?style=for-the-badge&labelColor=161b22" />
-</p>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 What I'm Exploring
-
-- 🔗 **Model Context Protocol (MCP)** — Tool-use architectures for LLMs to interact with external systems
-- 🦜 **LangGraph / LangChain** — Multi-step reasoning chains & agentic RAG systems
-- 🧩 **Agentic Pipelines** — Autonomous agents that plan, execute, and self-correct
-- ⚡ **AI-Assisted Dev** — Cursor, Copilot, and custom MCP servers for 10x velocity
-
-</td>
-<td width="50%" valign="top">
-
-### 📂 Related Repos
-
-<a href="https://github.com/KaneNguyen03/agentic-rag-for-dummies">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=agentic-rag-for-dummies&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-
-<a href="https://github.com/KaneNguyen03/awesome-claude-skills">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=awesome-claude-skills&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     FEATURED PROJECTS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/🏢_B--eInvoice-IPA_Platform_·_4M+_invoices%2Fmo-0D1117?style=for-the-badge&labelColor=161b22" />
-</p>
-<sub>Enterprise AP automation for Masan Consumer, Wincommerce, GS25 & KingFoodMart — private client codebase</sub>
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/KaneNguyen03/poke-life-fe">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=poke-life-fe&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/KaneNguyen03/BMCMS-FE">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=BMCMS-FE&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-<a href="https://github.com/KaneNguyen03/Porfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" />
-</a>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     PROFESSIONAL IMPACT
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 💼 &nbsp;Professional Impact
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🏢 Bizzi
-**Fintech SaaS**
-
-<img src="https://img.shields.io/badge/Invoice_Export-45m_→_5m_(9×)-5FD7FF?style=flat-square&labelColor=0D1117" />
-
-3-Way Matching UI
-4M+ invoices/mo pipeline
-
-</td>
-<td align="center" width="25%">
-
-### 🌏 Cigro
-**Singapore**
-
-<img src="https://img.shields.io/badge/Integrations-Sendbird_·_Firebase-5FD7FF?style=flat-square&labelColor=0D1117" />
-
-Real-time chat/video (EveryTalk)
-IAP payment flows
-
-</td>
-<td align="center" width="25%">
-
-### 💻 FSoft
-**Enterprise Frontend**
-
-<img src="https://img.shields.io/badge/Role-Frontend_Intern-5FD7FF?style=flat-square&labelColor=0D1117" />
-
-React + React Query modules
-Data-fetching architecture
-
-</td>
-<td align="center" width="25%">
-
-### 🎨 Axpara
-**Korea**
-
-<img src="https://img.shields.io/badge/Productivity-+30%25-5FD7FF?style=flat-square&labelColor=0D1117" />
-
-Canvas annotation tool
-Sub-50ms interaction latency
-
-</td>
-</tr>
-</table>
-</div>
-
-<br />
-
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/⚡_9×_Throughput-1M+_Record_Exports_Optimized-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
-  <img src="https://img.shields.io/badge/🌍_Cross--Border-Singapore_·_Korea_·_Vietnam-0D1117?style=for-the-badge&labelColor=161b22" />&nbsp;
-  <img src="https://img.shields.io/badge/🏗️_3_Years-Production_SaaS_Experience-0D1117?style=for-the-badge&labelColor=161b22" />
-</p>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/kanenguyen03">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanenguyen03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=c9d1d9&ring_color=5FD7FF" alt="Kane's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanenguyen03&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&text_color=c9d1d9" alt="Top Languages" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/kanenguyen03">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanenguyen03&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=5FD7FF&ring=5FD7FF&fire=FF6B35&currStreakLabel=5FD7FF&sideLabels=5FD7FF&dates=8b949e" alt="GitHub Streak" />
-</a>
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanenguyen03&bg_color=0D1117&color=5FD7FF&line=5FD7FF&point=FF6B35&area=true&area_color=5FD7FF&hide_border=true" width="95%" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     CONNECT
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-<p>
-
-  <a href="https://www.kanenguyen.com"><img src="https://img.shields.io/badge/🌐_kanenguyen.com-0D1117?style=for-the-badge" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kha-nguyen-29732a209"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
-  <a href="mailto:nguyenxuankha5371@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-
-</p>
-
-<br />
-
-```
-💡 Open to collaboration on AI/MCP projects, open-source contributions, and innovative fintech solutions.
-```
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=kanenguyen03&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     FOOTER
-     ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5fd7ff&height=120&section=footer" width="100%" alt="footer" />
+<sub>💡 Open to collaboration on AI/MCP projects, open-source contributions, and fintech solutions. · <img src="https://komarev.com/ghpvc/?username=kanenguyen03&color=blue&style=flat&label=views" alt="Profile Views" valign="middle" /></sub>
