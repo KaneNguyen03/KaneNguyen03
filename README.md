@@ -38,14 +38,6 @@ Exploring **Model Context Protocol (MCP)**, **LangChain/LangGraph**, and agentic
 - [agentic-rag-for-dummies](https://github.com/KaneNguyen03/agentic-rag-for-dummies) — a minimal Agentic RAG built with LangGraph
 - [awesome-claude-skills](https://github.com/KaneNguyen03/awesome-claude-skills) — a curated list of Claude Skills and tools
 
-## Featured Projects
-
-**B-eInvoice** — Enterprise AP automation IPA platform processing 4M+ invoices/month for Masan Consumer, Wincommerce, GS25 & KingFoodMart *(private client codebase)*
-
-<a href="https://github.com/KaneNguyen03/poke-life-fe"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=poke-life-fe&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" /></a>
-<a href="https://github.com/KaneNguyen03/BMCMS-FE"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=BMCMS-FE&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" /></a>
-<a href="https://github.com/KaneNguyen03/Porfolio"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KaneNguyen03&repo=Porfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=8b949e" /></a>
-
 ## GitHub Stats
 
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanenguyen03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=5FD7FF&icon_color=5FD7FF&text_color=c9d1d9&ring_color=5FD7FF" alt="Kane's GitHub Stats" align="left" />
